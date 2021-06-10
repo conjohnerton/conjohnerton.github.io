@@ -8,10 +8,17 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
+<<<<<<< HEAD
       title: 'John Connerton',
       description: 'John Connerton\'s website.',
       // image:
       //   'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+=======
+      title: 'Next.js Blog Starter Kit',
+      description: 'Clone and deploy your own Next.js portfolio in minutes.',
+      image:
+        'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+>>>>>>> parent of 6ed3af9 (Deploying to master from  @ 5fb73801630a336ddf298e263562c7238eaaa82c 🚀)
     }
 
     return (

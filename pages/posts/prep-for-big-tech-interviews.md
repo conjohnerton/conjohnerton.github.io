@@ -2,7 +2,7 @@
 title: Prepping for Big Tech Internship Interviews is a Sinch
 date: 2020/07/31
 description: This article will walk you through how I approached my first and final year of internship searching, where I messed up, and what steps led me to prevail.
-tag: advice university-days
+tag: advice
 author: John Connerton
 ---
 

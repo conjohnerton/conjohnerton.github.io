@@ -2,7 +2,7 @@
 title: Effective Direct Lambdas
 date: 2020/07/31
 description: I'm going to teach you how to use AWS AppSync's Direct Lambda feature and you're going to like it!
-tag: aws tutorials
+tag: tutorials
 author: John Connerton
 ---
 

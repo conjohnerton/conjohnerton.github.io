@@ -5,9 +5,9 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
-    title: 'Your Name',
-    site_url: 'https://yoursite.com',
-    feed_url: 'https://yoursite.com/feed.xml'
+    title: 'John Connerton',
+    site_url: 'https://conjohnerton.github.io',
+    feed_url: 'https://conjohnerton.github.io/feed.xml'
   })
 
   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
@@ -20,6 +20,8 @@ async function generate() {
         path.join(__dirname, '..', 'pages', 'posts', name)
       )
       const frontmatter = matter(content)
+
+      console.log(name)
 
       feed.item({
         title: frontmatter.data.title,

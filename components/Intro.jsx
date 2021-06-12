@@ -1,4 +1,4 @@
-const About = () => (
+const Intro = () => (
   <div>
     <p>Welcome to my electronic corner... </p>
     <p>
@@ -26,4 +26,4 @@ const About = () => (
   </div>
 )
 
-export default About
+export default Intro

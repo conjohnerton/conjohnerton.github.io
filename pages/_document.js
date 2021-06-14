@@ -10,8 +10,8 @@ class MyDocument extends Document {
     const meta = {
       title: 'John\'s Electronic Corner',
       description: 'Welcome to my corner of the net. We have tea, freedom, and ambient drone music.',
-      // image:
-      //   'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+      image:
+        'conjohnerton.github.io/images/mePic.jpg'
     }
 
     return (
@@ -24,7 +24,7 @@ class MyDocument extends Document {
           <meta property="og:title" content={meta.title} />
           <meta property="og:image" content={meta.image} />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@yourname" />
+          <meta name="twitter:site" content="@conjohnerton" />
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
           <meta name="twitter:image" content={meta.image} />

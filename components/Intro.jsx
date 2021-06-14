@@ -1,3 +1,5 @@
+import styles from '../styles/Projects.module.css'
+
 const Intro = () => (
   <div>
     <p>Welcome to my electronic corner... </p>
@@ -19,9 +21,9 @@ const Intro = () => (
     </em>
     <br />
     <p>
-      Feel free to peruse this corner of the internet as if it were your own.
-      All we have right now is some blogs I've written in the past. There might
-      be something there to interest you. Take a look.
+      Feel free to peruse this corner as if it were your home too. All we have
+      right now is some blogs I've written in the past. There might be something
+      there to interest you. Take a look.
     </p>
   </div>
 )

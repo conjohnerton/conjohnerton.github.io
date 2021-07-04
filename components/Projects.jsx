@@ -22,7 +22,7 @@ const projects = [
 const Projects = () => {
   const projectCards = projects.map((proj) => (
     <a href={proj.link} target="_blank" style={{ textDecoration: 'none' }}>
-      <div className={styles.card}>
+      <div>
         <h3>{proj.title}</h3>
         <p style={{ color: 'slategray' }}>{proj.description}</p>
         {proj.video ? (

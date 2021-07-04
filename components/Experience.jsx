@@ -18,7 +18,7 @@ const experiences = [
 const Experience = () => {
   const projectCards = experiences.map((exp) => {
     const expInfo = (
-      <div className={styles.card}>
+      <div>
         <h3>{exp.title}</h3>
         <p style={{ color: 'slategray' }}>{exp.description}</p>
       </div>

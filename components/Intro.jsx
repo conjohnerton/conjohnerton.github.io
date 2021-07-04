@@ -21,9 +21,9 @@ const Intro = () => (
     </em>
     <br />
     <p>
-      Feel free to peruse this corner as if it were your home too. All we have
-      right now is some blogs I've written in the past. There might be something
-      there to interest you. Take a look.
+      Feel free to peruse this corner as if it were your home too. In tribute to
+      MySpace history, I have a playlist of some music in the About tab. Maybe
+      those could be the theme of my blogs too? It's up to you.
     </p>
   </div>
 )

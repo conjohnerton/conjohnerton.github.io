@@ -7,9 +7,9 @@ author: John Connerton
 
 # Record Everything
 
-Reflection is good. Reflection is how you can gain both self-confidence and self-awareness.
+Reflection is mindfulness.
 
-I try to reflect as often as possible. It's how I remember the good times. It's how I correct the bad. It's with reflection that others can remember and take wisdom from me.
+I try to reflect as often as possible. It's how I remember the good times. It's how I correct the bad. It's how others can learn from me.
 
 If the pop articles I've recently read are correct, we're all cyborgs. We aren't the kind with weird cyber-punk implants (At least, not yet). We are the boring kind of cyborg: our cybernetic extensions are our phones and computers. Stop relying on that mushy human brain you have, and start augmenting your memory with computing power. (And try to remain in control of all that data yourself) Hark! We're in the age of information! Take advantage of your newfound tools and spread your knowledge scalably.
 
@@ -27,6 +27,8 @@ The first is a professional. Maybe this professional wants to improve the proces
 The second type of person is probably a friend of mine. They'll probably have the same interests as the professional but would also like to hear a personal twist on this whole thing. They might be a gamer, a musician, or some hobbyist. I've come to realize that this 'record everything' thing encompasses pretty much anything you do involving a computer, and perhaps even more.
 
 With those two types of people in mind (you know which one you are by now), I'm going to split this article into two sections: professional and personal. Each will provide background specific to your interest. Depending on which type of person you are, you might hop right over to your section of interest.
+
+## Background
 
 ### Personal
 
@@ -56,9 +58,33 @@ During that job, I had to help a couple of interns get up to speed with their jo
 
 All these discoveries didn't matter if someone else had to re-discover or even re-re-discover it all over again. This knowledge thing wasn't very scalable. As clever, considerate, productive humans, we probably care about making things better: more so when it's easy to do so.
 
-### A solution to our problems
+## Solution
 
-Just pull out your recording software and start **recording**!!!
+Warning: If you record everything all the time, you might find yourself not enjoying the moment you're in at that moment. That's why I try to record sounds when I'm in conversation and record video when I'm on my computer. It's best to choose a recording option that is most out of the way and mindless. 
+
+### Personal 
+
+### Professional
+
+First, I'll tell you how I handled things at my job. I gave a bit of a demo-explanation-thingy to an intern on the team, and like I said earlier, realized that someone else would inevitably have the same questions. I decided to redo the whole thing on video, alone this time. I released the video to my team and made sure to add a link to it in our documentation. That video got props from my manager since I was helping to develop my team members. I repeated this type of thing multiple times throughout my employment at that job. 
+
+I imagine that there would be a couple of different scenarios in which you'd decide to hit the record button at your job. The first: when you're in a meeting with one or more people. The other: when you're all alone and feel like something could be better documented. The second scenario is just... documentation: No explanation necessary.
+
+Let's cover how you'd approach the first scenario:
+
+1. You join a meeting for any reason at all.
+2. You say to the attendees, "Hey team, I'm going to record the meeting for documentation purposes. I'll add the link to our docs/wiki/workspace after it's uploaded."
+3. After the meeting, you decide if the recording had any information that might be useful later. If so, you save it and add it to your docs.
+
+It's that simple. Your only task is to make it a habit to start a recording at the beginning of every meeting you have. Whether it's a weekly team meeting or a one-off with a team member, you just hit the record button. You'll come to realize that helps get rid of tribal knowledge on the team. 
+
+You might also reflect on the entire meeting as a whole and remember bits of important info. You've now reflected on the meeting and will generally retain more information from it (hello, highly trusted and knowledgable team member status!!). Sometimes though, you might find that the info doesn't deserve an entire video. At that point, since you have that information fresh in your brain, it's as easy as writing it down somewhere in your team's docs. 
+
+As you can see, recording everything isn't only about saving every word that the team has ever muttered in the effort of increasing productivity. The technique's purpose is to push you to reflect and stay mindful more often. I'm basically telling you to meditate more often in a drawn-out way. Through the act of storing things and considering what is important enough to keep (after you already recorded it), you will be more in tune with your work with the added benefit of having important info stored for your team members later on.
+
+This strategy reminds me of the "cheat sheets" we could use in college. Some professors would allow you to prepare a single page to bring into an exam. On that page, you could write whatever your heart pleased. I'm not sure where the research showed this (send it to me if you find it?) but apparently, figuring out what you need to save on a cheat sheet was a pretty decent study strategy. From personal experience, when I had made a cheat sheet for one of those classes, I barely used the thing during the exam.
+
+So go on and try to record your meetings, then reflect on those recordings to see if they're even worth saving at all. Try it for two weeks. You might find that it's more helpful than you'd first believe.
 
 [1]: https://en.wikipedia.org/wiki/Decay_theory
 [2]: https://en.wikipedia.org/wiki/The_Caretaker_(musician)

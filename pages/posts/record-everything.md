@@ -62,11 +62,21 @@ All these discoveries didn't matter if someone else had to re-discover or even r
 
 Warning: If you record everything all the time, you might find yourself not enjoying the moment you're in at that moment. That's why I try to record sounds when I'm in conversation and record video when I'm on my computer. It's best to choose a recording option that is most out of the way and mindless. 
 
-### Personal 
+### Personal
+
+Here's what I try to do when I head back to see my grandfather: I start my recording app on my phone and slide my phone into my pocket or set it on a countertop when I know we'll be having a chat. After we chat, I think about what we talked about and decide whether or not to save the recording for good. My grandfather is getting older. I'm moving to the other side of the country to start the next chapter of my life. I worry that one of the next few times I see him could be the last. Life is unexpected. I could never know. I don't want to forget his mannerisms nor his jokes. This is my way of immortalizing him. The same could be said for the rest of my family also. I record them too.
+
+Next time you make your way to see family or some friends, hit the record button on your phone's recorder app and slip the phone into your pocket. Forget it even exists and continue normally. When you've got a moment away from that person, stop the recording and save it. Reflect for a second on what you discussed. If there wasn't anything important said, go ahead and delete the recording.
+
+**Side note**: You might want to organize the recordings into folders like Grandfather, Florida_Friends, or something along those lines.
+
+The reflection part is the most crucial part of the technique. Recording everything isn't about blindly saving everything you've ever talked about with someone you love so that you can reminisce. The purpose is to push you to reflect and stay mindful more often. I'm telling you to meditate without really meditating. Considering what is important enough to keep will grow your relationships. Your loved ones will notice that you remember much more about what they have said. I believe the effect is similar to [reflective listening][3] but extended over time. Your knowledge of a person cemented through the reflections you do can help you communicate empathetically. 
+
+*We all want to be the "favorite" friend and relative. Right?*
 
 ### Professional
 
-First, I'll tell you how I handled things at my job. I gave a bit of a demo-explanation-thingy to an intern on the team, and like I said earlier, realized that someone else would inevitably have the same questions. I decided to redo the whole thing on video, alone this time. I released the video to my team and made sure to add a link to it in our documentation. That video got props from my manager since I was helping to develop my team members. I repeated this type of thing multiple times throughout my employment at that job. 
+I'll tell you how I handled things at my job. I gave a bit of a demo-explanation-thingy to an intern on the team, and like I said earlier, realized that someone else would inevitably have the same questions. I decided to redo the whole thing on video, alone this time. I released the video to my team and made sure to add a link to it in our documentation. That video got props from my manager since I was helping to develop my team members. I repeated this type of thing multiple times throughout my employment at that job. 
 
 I imagine that there would be a couple of different scenarios in which you'd decide to hit the record button at your job. The first: when you're in a meeting with one or more people. The other: when you're all alone and feel like something could be better documented. The second scenario is just... documentation: No explanation necessary.
 
@@ -86,5 +96,11 @@ This strategy reminds me of the "cheat sheets" we could use in college. Some pro
 
 So go on and try to record your meetings, then reflect on those recordings to see if they're even worth saving at all. Try it for two weeks. You might find that it's more helpful than you'd first believe.
 
+### Hit the ⏺️ button
+Try this technique out for two weeks and see just how much it grows your relationships and improves your work. Record things, save things, and reflect on everything too. 
+
+**Record everything around you.**
+
 [1]: https://en.wikipedia.org/wiki/Decay_theory
 [2]: https://en.wikipedia.org/wiki/The_Caretaker_(musician)
+[3]: https://www.maxwell.syr.edu/uploadedFiles/parcc/cmc/Reflective%20Listening%20NK.pdf

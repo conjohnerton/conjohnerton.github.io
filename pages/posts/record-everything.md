@@ -11,7 +11,7 @@ Reflection is mindfulness.
 
 I try to reflect as often as possible. It's how I remember the good times. It's how I correct the bad. It's how others can learn from me.
 
-If the pop articles I've recently read are correct, we're all cyborgs. We aren't the kind with weird cyber-punk implants (At least, not yet). We are the boring kind of cyborg: our cybernetic extensions are our phones and computers. Stop relying on that mushy human brain you have, and start augmenting your memory with computing power. (And try to remain in control of all that data yourself) Hark! We're in the age of information! Take advantage of your newfound tools and spread your knowledge scalably.
+If the click-bait articles I've recently read are correct, we're all cyborgs. We aren't the kind with weird cyber-punk implants (At least, not yet). We are the boring kind of cyborg: our cybernetic extensions are our phones and computers. Stop relying on that mushy human brain you have, and start augmenting your memory with computing power. (And try to remain in control of all that data yourself) Hark! We're in the age of information! Take advantage of your newfound tools and spread your knowledge scalably.
 
 #### Glossary:
 

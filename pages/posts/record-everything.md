@@ -1,6 +1,6 @@
 ---
 title: Record Everything
-date: 2021/07/3
+date: 2021/07/22
 description: Seriously, I mean everything.
 author: John Connerton
 ---

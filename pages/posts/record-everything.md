@@ -7,7 +7,13 @@ author: John Connerton
 
 # Record Everything
 
-Reflection is mindfulness.
+### Preface
+
+I came up with this advice a bit too late for me, it seems. Still, I hope this piece finds **you** right on time. My mother passed recently. I carry the regret of not using this technique soon enough to immortalize her in my life. Rest in peace, Mama. 
+
+### Intro
+
+How mindful are you? 
 
 I try to reflect as often as possible. It's how I remember the good times. It's how I correct the bad. It's how others can learn from me.
 
@@ -52,7 +58,7 @@ If you work in software, you know that documentation is an ever-present pain. Re
 
 One of my jobs was working with a customer-facing, high-performance service spanning a few teams. The team I was on was relatively young when I joined: many of the current engineers were there during the product launch. Due to the team's age, there never came a time when the tribal knowledge on the team would get put into documentation. Although, the team would have a weekly learning session that did cover some of that knowledge, usually on a higher level. However, these were sometimes canceled outright or not recorded for the team to view later on.
 
-**Side note**: If you don't do a recurring knowledge session, I'd recommend trying it out. I think it helped the newbies get up to speed faster.
+**Side note**: If you don't do a recurring knowledge session, I'd recommend trying it out. I think it helped the newbies get up to speed faster and helped team members be more in touch with unfamiliar parts of a product.
 
 During that job, I had to help a couple of interns get up to speed with their jobs. Later on, help them with some of the questions they had about their intern projects. I met with the interns once a week and sometimes more if it was necessary. During some of those meetings, they might have asked me to explain some system that I had previously worked on. I gave the interns a deep dive when I could. Those explanations had already left the mouths of other team members numerous times, yet nobody had recorded them. What a waste of time!
 

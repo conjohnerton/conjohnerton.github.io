@@ -2,6 +2,7 @@
 title: Record Everything
 date: 2021/07/22
 description: Seriously, I mean everything.
+tag: advice
 author: John Connerton
 ---
 

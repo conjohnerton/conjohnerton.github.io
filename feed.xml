@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[John Connerton]]></title>
+        <description><![CDATA[John Connerton]]></description>
+        <link>https://conjohnerton.github.io</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 23 Jan 2022 17:42:13 GMT</lastBuildDate>
+        <atom:link href="https://conjohnerton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Effective Direct Lambdas]]></title>
+            <description><![CDATA[I'm going to teach you how to use AWS AppSync's Direct Lambda feature and you're going to like it!]]></description>
+            <link>/posts/effective-direct-lambdas-for-appsync</link>
+            <guid isPermaLink="true">/posts/effective-direct-lambdas-for-appsync</guid>
+            <category><![CDATA[tutorials]]></category>
+            <dc:creator><![CDATA[John Connerton]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prepping for Big Tech Internship Interviews is a Sinch]]></title>
+            <description><![CDATA[This article will walk you through how I approached my first and final year of internship searching, where I messed up, and what steps led me to prevail.]]></description>
+            <link>/posts/prep-for-big-tech-interviews</link>
+            <guid isPermaLink="true">/posts/prep-for-big-tech-interviews</guid>
+            <category><![CDATA[advice]]></category>
+            <dc:creator><![CDATA[John Connerton]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Record Everything]]></title>
+            <description><![CDATA[Seriously, I mean everything.]]></description>
+            <link>/posts/record-everything</link>
+            <guid isPermaLink="true">/posts/record-everything</guid>
+            <category><![CDATA[advice]]></category>
+            <dc:creator><![CDATA[John Connerton]]></dc:creator>
+            <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

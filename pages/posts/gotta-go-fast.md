@@ -35,7 +35,7 @@ I used an app called [Zero](https://www.zerofasting.com/), which was co-founded 
 
 I also moved away from consuming coffee and turned instead to brewing loose leaf green tea. That habit also sticks with me to this day, but I do enjoy a shot of coffee sometimes too!
 
-Another note: my current eating schedule is between 12:30 PM and 9:30 PM. I often push it forward a little bit because I find that I get deep work done around lunch time. 
+Another note: my current eating schedule is between 12:30 PM and 9:30 PM. I often push it forward a little bit because I find that I get deep work done around lunch time and eating a little later often fits better into my schedule when I'm out with others.
 
 ---
 
@@ -45,9 +45,9 @@ Another note: my current eating schedule is between 12:30 PM and 9:30 PM. I ofte
 
 I started to think about the focus problems we have. In the digital age we have endless notifications, people to talk to (or just look at online, sadly), and information to consume. Many people know the dangers of the digital world hi-jacking our reward mechanisms in our brains. See this [random article](https://hms.harvard.edu/news/screen-time-brain) from Harvard's website that I just looked up to prove my point or check out the [Social Dilemma](https://www.thesocialdilemma.com/) for a popular documentary on social media's affect on brains. Post-industrial age, we have endless luxurious foods to eat. We always have food on the mind and food at the tips of our fingers. All we have to do is tap an app, hit the town, or open a package and we can be happy. It's wonderful. Our ancestors are envious our society's capability of delivering on-demand calorie dense delicacies to our breadbaskets in an instant.
 
-Our ancestors are something I think about often. I imagine myself as a hunter-gatherer waking up in the morning and beginning my day by searching for food. In this case, I will consider myself a hunter. Would you feel driven towards your goal if you were already full? Probably not. I think of fasting as the same thing now. When we are hungry, we're incentivized to 'get this bread'. But at this point, we aren't hunters, we're most likely writing, researching, or calculating. Those things result in us getting fed too. The slight bit of hunger drives us to accomplish our goal.
+Our ancestors are something I think about often. I imagine myself as a hunter-gatherer waking up in the morning and beginning my day by searching for food. In this case, I will consider myself a hunter. Would you feel driven towards your goal if you were already full? Probably not. I think of fasting as the same thing now. When we are hungry, we're incentivized to 'get this bread'. But at this point, we aren't hunters, we're most likely writing, researching, or calculating. Those things result in us getting fed too. The slight bit of hunger drives us to accomplish our goal, just like it did for our ancestors.
 
-Aside from hunger leading to an incentive to be productive, 9-12 AM is simply an excellent time in the morning. You have less distractions... No need to prepare breakfast. No need to look at your phone. Just a clear head, clean energy, and pure focus. When I fast, I have one goal: "Get this bread". That pushes me to focus heavily on solving the problems in front of me. I write down the problems I want to solve the night before, then upon waking get into a clean focus onto the problems I wrote down.
+Aside from hunger leading to an incentive to be productive, 9-12 AM is simply an excellent time in the morning. You have less distractions... No need to prepare breakfast. No need to look at your phone. Just a clear head, clean energy, and pure focus. When I fast, I have one goal: "Get this bread". That pushes me to focus heavily on solving the problems in front of me. I write down the problems I want to solve the night before, then upon waking get into a clean focus onto the problems I wrote down. There's no breaking my fast to distract me that early in the day.
 
 ![Baskin Robins Mascot taking a bathroom selfie. A quote on top of the image reads: 'Wake up hustlers, let's get this bread. No days off.'](/images/get-this-bread-basking.png)
 
@@ -55,7 +55,7 @@ Aside from hunger leading to an incentive to be productive, 9-12 AM is simply an
 
 Well I'll be honest, at first it felt like suffering. My body would scream out "EAT BREAKFAST DAMN YOU". However, it's now habitual. I don't feel *hungry* like I did before. In fact, my relationship with hunger has dramatically changed: it's more of an awareness than a compulsion. I am comfortable being hungry for a little while and less apt to become hangry. Not only have I become more in control of _when_ I eat but I've also become more in control about _what_ I eat. I think this is the kind of thing that meditation does to the mind. I guess fasting could be considered meditative then.
 
-Overall, I feel GREAT. That sounds dis-ingenuine but I'm serious.
+Overall, I feel GREAT. That sounds disingenuous but I'm serious.
 
 I feel like IF resulted in a few benefits:
 
@@ -66,9 +66,9 @@ I feel like IF resulted in a few benefits:
 3. I feel like I have more control over my relationship with food: **when** and **what** I eat.
     - No more cravings, much less hangry.
 
-### Alright, what are you trying to sell me quickly?
+### Are you going to sell me something?
 
-Nothing. That's right. (I hate when people try to sell me stuff too) My favorite thing about this lifehack is that you don't need anything to do it. It's minimalist in nature. You just change your behavior a little bit and you get those benefits listed above. Absolutely based. 
+Nope. Nothing. That's right. (I hate when people try to sell me stuff too) My favorite thing about this lifehack is that you don't need anything to do it. It's minimalist in nature. You just change your behavior a little bit and you get those benefits listed above. Absolutely based. 
 
 ---
 

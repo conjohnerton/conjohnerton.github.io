@@ -4,7 +4,7 @@
         <description><![CDATA[John Connerton]]></description>
         <link>https://conjohnerton.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Jan 2022 17:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:11:02 GMT</lastBuildDate>
         <atom:link href="https://conjohnerton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effective Direct Lambdas]]></title>
@@ -14,6 +14,17 @@
             <category><![CDATA[tutorials]]></category>
             <dc:creator><![CDATA[John Connerton]]></dc:creator>
             <pubDate>Fri, 31 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gotta Go Fast!]]></title>
+            <description><![CDATA[Don't eat for more focus]]></description>
+            <link>/posts/gotta-go-fast</link>
+            <guid isPermaLink="true">/posts/gotta-go-fast</guid>
+            <category><![CDATA[advice]]></category>
+            <category><![CDATA[health]]></category>
+            <category><![CDATA[fitness]]></category>
+            <dc:creator><![CDATA[John Connerton]]></dc:creator>
+            <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prepping for Big Tech Internship Interviews is a Sinch]]></title>
